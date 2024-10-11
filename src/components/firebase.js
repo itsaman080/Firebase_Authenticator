@@ -6,13 +6,15 @@ import {getFirestore} from "firebase/firestore";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+// I have altered the firebaseConfig; 
+//Below config will not run
 const firebaseConfig = {
-  apiKey: "AIzaSyD3CmRfU-6_Abs2bGN0EEC359JDBf8bJdk",
-  authDomain: "authenticationapp-b301e.firebaseapp.com",
-  projectId: "authenticationapp-b301e",
-  storageBucket: "authenticationapp-b301e.appspot.com",
-  messagingSenderId: "754088466702",
-  appId: "1:754088466702:web:f714960bff24b755fe5f5f"
+  apiKey: "AIzaSyD3mRfU-6_Abs2bGN0EEC",
+  authDomain: "authenticationapp-b3e.firebaseapp.com",
+  projectId: "authenticationapp-b3e",
+  storageBucket: "authenticationapp-b3e.appspot.com",
+  messagingSenderId: "7540802",
+  appId: "1:7540866702:web:f714960755fe5f5f"
 };
 
 // Initialize Firebase
