@@ -6,6 +6,6 @@ The Firebase Authenticator is a web application built with React and Firebase, d
 
 **Technologies Used:**
 
-React: For building dynamic and interactive user interfaces.
-Firebase Authentication: For secure and efficient user authentication.
+React: For building dynamic and interactive user interfaces.<br>
+Firebase Authentication: For secure and efficient user authentication.<br>
 Firebase Firestore: For real-time data storage and management.
